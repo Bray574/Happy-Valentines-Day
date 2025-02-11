@@ -9,10 +9,6 @@
             background-color: #ffe6e6;
             font-family: Arial, sans-serif;
             padding: 20px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
         }
         h1 {
             color: #ff4d4d;
@@ -29,9 +25,6 @@
         }
         .gif-container {
             margin-top: 20px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
         }
         .gif-container img {
             width: 200px;
@@ -46,51 +39,6 @@
         @keyframes fadeIn {
             from { opacity: 0; }
             to { opacity: 1; }
-        }
-
-        /* Responsive Design für kleinere Bildschirme */
-        @media screen and (max-width: 600px) {
-            body {
-                padding: 10px;
-            }
-
-            h1 {
-                font-size: 24px;
-            }
-
-            p {
-                font-size: 16px;
-            }
-
-            .gif-container img {
-                width: 150px;
-            }
-
-            .heart {
-                font-size: 40px;
-            }
-        }
-
-        @media screen and (max-width: 1024px) {
-            body {
-                padding: 15px;
-            }
-
-            h1 {
-                font-size: 28px;
-            }
-
-            p {
-                font-size: 18px;
-            }
-
-            .gif-container img {
-                width: 180px;
-            }
-
-            .heart {
-                font-size: 45px;
-            }
         }
     </style>
 </head>
