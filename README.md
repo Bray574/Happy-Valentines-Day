@@ -117,11 +117,14 @@
     </style>
 </head>
 <body>
-    <h1>To the girl with the cutest bun hair on earth!</h1>
+    <h1>Für d'Frau mit em herzige Dutt!</h1>
+    
     <p> The best people come unexpectedly..</p>
-    <p> For me, you were like a shot of Espresso. 🌟</p>
-    <p> I Wish you a wonderful Valentines Day, Melissa!</p>
-    <p class="heart">💖</p>
+    <p> You were like a shot of espresso, energetic, enthusiastic with a sweet smile.🌟</p>
+    <p> Have a nice Valentines Day, Melissa </p>
+    <p> Best regards Brayniel </p>
+    
+    <p> class="heart">💖</p>
 
     <div class="gif-container">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViczVvdXdiZDZ4aWx4N3djbGk4MmkyazZ1amNzdGZkbG04MnJ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif" alt="Cute Love Gif">
