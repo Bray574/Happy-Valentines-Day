@@ -124,7 +124,7 @@
     <p> Have a nice Valentines Day, Melissa </p>
     <p> Best regards Brayniel </p>
     
-    <p> class="heart">💖</p>
+    <p class="heart">💖</p>
 
     <div class="gif-container">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTViczVvdXdiZDZ4aWx4N3djbGk4MmkyazZ1amNzdGZkbG04MnJ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b4UHeUnzarvUnjl0fg/giphy.gif" alt="Cute Love Gif">
