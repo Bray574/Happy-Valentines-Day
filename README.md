@@ -120,7 +120,7 @@
     <h1>Für d'Frau mit em herzige Dutt!</h1>
     
     <p> The best people come unexpectedly..</p>
-    <p> You were like a shot of espresso, energetic, enthusiastic and a sweet smile.🌟</p>
+    <p> You were like a shot of espresso, energetic, enthusiastic with a sweet smile.🌟</p>
     <p> Have a nice Valentines Day, Melissa </p>
     <p> Best regards Brayniel </p>
     
